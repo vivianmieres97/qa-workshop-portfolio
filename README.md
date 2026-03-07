@@ -1,2 +1,10 @@
 # qa-workshop-portfolio
-repositorio para el portfolio del semillero QA
+
+Portfolio individual del workshop "Semillero de Pruebas en el desarrollo moderno" 
+Autor: Vivian Sánchez
+
+Este repositorio contrendrá los entregables desarrollados durante el workshop.
+
+##Estado actual
+
+Repositorio conectado y listo para comenzar el trabajo del portafolio.

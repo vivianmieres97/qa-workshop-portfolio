@@ -3,7 +3,7 @@
 Portfolio individual del workshop "Semillero de Pruebas en el desarrollo moderno" 
 Autor: Vivian Sánchez
 
-Este repositorio contrendrá los entregables desarrollados durante el workshop.
+Este repositorio contendrá los entregables desarrollados durante el workshop.
 
 ##Estado actual
 
